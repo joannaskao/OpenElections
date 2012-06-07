@@ -9,7 +9,7 @@ OpenElections is in the early stages of development. Our project goals include:
 * Create a clearinghouse of documentation on election data
 * Collect and standardize historical election results at the statewide and county levels.
 * Offer APIs for live, election night data (where available)
-* Link external data to other public data sets, including campaign finance and legislative
+* Link political candidates data to other public data sets, including campaign finance and legislative
 
 Get Involved
 ------------
