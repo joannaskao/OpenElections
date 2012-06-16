@@ -13,5 +13,5 @@ OpenElections is in the early stages of development. Our project goals include:
 
 Get Involved
 ------------
-* `Code on GitHub <http://github.com/zstumgoren/openstates/>`_
+* `Code on GitHub <http://github.com/zstumgoren/OpenElections>`_
 * `Google Group <https://groups.google.com/forum/#!forum/openelections>`_
